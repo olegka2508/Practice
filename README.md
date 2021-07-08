@@ -5,3 +5,4 @@ First project\src\main\java\com\example\restservice\RestServiceApplication.java
 http://localhost:8081/greeting
 или 
 http://localhost:8081/greeting?name="Имя"
+Приложение просто выводит текст
