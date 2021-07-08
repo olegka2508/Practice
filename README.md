@@ -5,4 +5,5 @@ First project\src\main\java\com\example\restservice\RestServiceApplication.java
 http://localhost:8081/greeting
 или 
 http://localhost:8081/greeting?name="Имя"
-Приложение просто выводит текст
+Приложение в первом случае выводит:Hello, my friend, is my first project in this topic.
+Во втором: Hello, "Имя", is my first project in this topic.
